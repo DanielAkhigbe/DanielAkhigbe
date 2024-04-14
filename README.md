@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DanielAkhigbe
+- 👋 Hi, I’m Dan
 - 👀 I’m interested in connecting and exploring
-- 🌱 I’m currently learning Data Science and Machine Learning 
-- 💞️ I’m looking to collaborate on Machine Learning projects
+- 💻 Data Science and Machine Learning 
+- 💞️ I’m looking to collaborate on ML & A.I. projects
 - 📫 How to reach me: dannyakhigbe@gmail.com
 
 <!---
