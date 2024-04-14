@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Dan
 - 👀 I’m interested in connecting and exploring
-- 💻 Data Science and Machine Learning 
+- 👨🏽‍💻 Data Science and Machine Learning 
 - 💞️ I’m looking to collaborate on ML & A.I. projects
 - 📫 How to reach me: dannyakhigbe@gmail.com
 
